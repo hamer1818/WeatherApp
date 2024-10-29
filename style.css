@@ -1,0 +1,12 @@
+/* Örneğin, form girişine gölge veya kenarları daha belirgin yapmak için */
+#city {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#weather-info {
+    transition: opacity 0.3s ease-in-out;
+}
+
+#weather-info.hidden {
+    opacity: 0;
+}
