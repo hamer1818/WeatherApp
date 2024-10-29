@@ -1,5 +1,7 @@
 # WeatherApp
 
+![WeatherApp](ss.jpeg)
+
 ## Türkçe
 
 ### Proje Hakkında
